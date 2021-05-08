@@ -28,6 +28,6 @@ username this is your username on pdfcrowd.com
 
 api_token - this is your API token on pdfcrowd.com
 
-# HOW TO USE IT BOT?
+# HOW TO USE THIS BOT?
 
 You can use a bot данdick https://discord.com/oauth2/authorize?client_id=804681049975947294&scope=bot
