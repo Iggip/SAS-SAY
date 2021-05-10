@@ -14,6 +14,7 @@ python bot.py
 use command:
 
 * /SAS ...
+   
    ... - is a text of the message
 
 # SETTINGS in config.py
